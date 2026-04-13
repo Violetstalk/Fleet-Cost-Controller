@@ -1,14 +1,13 @@
 # Fleet Cost Controller — Excel VBA Portfolio Project
 
-A fully functional fleet controlling workbook built in Excel and VBA, 
-modelled on a vehicle rental operation in the context of 
-Mercedes-Benz Automotive Mobility's fleet controlling requirements.
+A fully functional fleet controlling workbook built in Excel and VBA,
+modelled on a vehicle rental fleet operation.
 
 ## What it does
 
-- Tracks 300 simulated rental transactions across 6 vehicle classes, 
+- Tracks 300 simulated rental transactions across 6 vehicle classes,
   3 months, and 3 branches
-- Calculates actual revenue, total costs, contribution margin, 
+- Calculates actual revenue, total costs, contribution margin,
   and rental days by vehicle class and month
 - Compares actuals against budget with automated variance flagging
 - Exports a dated management KPI dashboard as PDF in one click
